@@ -1,3 +1,4 @@
+
 stock = 100
 
 while True:

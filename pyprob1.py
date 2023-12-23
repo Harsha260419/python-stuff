@@ -10,3 +10,9 @@ for i in range(0,len(l2)):
         l4.append(l2[i])
 l3.extend(l4)
 print(l3)
+
+result = 1
+for i in zip(l1,l2):
+    result = 1*i
+
+print(result)
